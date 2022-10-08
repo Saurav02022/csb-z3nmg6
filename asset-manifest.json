@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saurav02022.github.io/csb-z3nmg6/static/css/main.159bb014.chunk.css",
+    "main.js": "https://saurav02022.github.io/csb-z3nmg6/static/js/main.384a01b4.chunk.js",
+    "main.js.map": "https://saurav02022.github.io/csb-z3nmg6/static/js/main.384a01b4.chunk.js.map",
+    "runtime-main.js": "https://saurav02022.github.io/csb-z3nmg6/static/js/runtime-main.efabb9eb.js",
+    "runtime-main.js.map": "https://saurav02022.github.io/csb-z3nmg6/static/js/runtime-main.efabb9eb.js.map",
+    "static/js/2.0014ee87.chunk.js": "https://saurav02022.github.io/csb-z3nmg6/static/js/2.0014ee87.chunk.js",
+    "static/js/2.0014ee87.chunk.js.map": "https://saurav02022.github.io/csb-z3nmg6/static/js/2.0014ee87.chunk.js.map",
+    "index.html": "https://saurav02022.github.io/csb-z3nmg6/index.html",
+    "static/css/main.159bb014.chunk.css.map": "https://saurav02022.github.io/csb-z3nmg6/static/css/main.159bb014.chunk.css.map",
+    "static/js/2.0014ee87.chunk.js.LICENSE.txt": "https://saurav02022.github.io/csb-z3nmg6/static/js/2.0014ee87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efabb9eb.js",
+    "static/js/2.0014ee87.chunk.js",
+    "static/css/main.159bb014.chunk.css",
+    "static/js/main.384a01b4.chunk.js"
+  ]
+}
